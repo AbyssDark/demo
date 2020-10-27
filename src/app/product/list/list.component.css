@@ -1,0 +1,20 @@
+.list-action-button{
+    padding: 8px 0px 8px 0px;
+}
+
+.delete-label{
+    cursor: pointer;
+    color: red;
+}
+
+.action-label{
+    color: black !important;
+}
+.container{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+table{
+    font-size: 20px;
+}
